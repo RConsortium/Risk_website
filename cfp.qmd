@@ -2,26 +2,113 @@
 title: "Call for Proposals"
 ---
 
-## The Call for Proposals deadline has passed. Thank you for your interest.
-Join us at R+AI 2025, our inaugural conference dedicated to the open-source 
-R community and every facet of artificial intelligence. Whether you’re 
-just getting started with machine learning, experimenting with large 
-language models in R, leveraging GenAI tools to accelerate your code, 
-part of an industry team deploying AI solutions in finance, healthcare, 
-or marketing, or a researcher pushing the boundaries of deep learning or 
-responsible AI—there’s something here for you. Experience inspiring 
-keynotes and talks, hands-on workshops, lightning talks, and panel 
-discussions designed to educate, connect, and empower R users at every level.
+The R Consortium invites submissions for our inaugural online R!sk event, a global gathering for anyone using the R statistical programming language to calculate, measure, report, and mitigate risk. This all digital event brings together practitioners, researchers, and industry experts to share innovative tools, methods, and case studies that advance the science and practice of risk analysis in R.
 
-## Key dates
-- CFP closes: September 5, 2025  
+## Important Dates
 
-## Technical Areas
+Call for Proposals Opens: November 1, 2025
 
-![](images/RplusAI-CFP-Topics.png)
+Proposal Submission Deadline: December 1, 2025
 
-## Formats
-- Talks (20–25 min)  
-- Lightning talks (5–7 min)  
-- Workshops (2–3 hours)  
-- Panels (45–60 min)
+Notification of Acceptance: December 15, 2025
+
+Event Dates: February 18-19, 2026
+
+## Suggested Topic Areas
+
+We welcome proposals from all disciplines where risk is calculated, managed, or communicated using R. Submissions may cover, but are not limited to, the following categories:
+
+### Core Risk Modeling and Quantification
+
+- Probabilistic and stochastic risk modeling
+- Bayesian methods for risk estimation
+- Monte Carlo simulation and uncertainty quantification
+- Sensitivity analysis and model validation
+- Extreme value theory and tail-risk modeling
+- Scenario analysis and stress testing
+- Spatial and temporal risk modeling
+- Quantitative risk scoring systems in R
+
+### Measurement, Data, and Reporting
+
+- Data pipelines for risk assessment in R (tidyverse, data.table, etc.)
+- Reproducible risk reporting (R Markdown, Quarto, Shiny)
+- Risk dashboards and visual analytics (Shiny, ggplot2, Plotly, etc.)
+- Communicating uncertainty and probabilistic outcomes
+- Risk metric standardization and validation frameworks
+- Reproducibility and regulatory transparency in risk reporting
+
+### Domain-Specific Applications
+
+- Financial and credit risk modeling (VaR, expected shortfall, etc.)
+- Insurance and actuarial risk modeling
+- Environmental and climate risk assessment
+- Epidemiological and health risk analysis
+- Supply chain and operational risk management
+- Cybersecurity and information risk modeling
+- Energy market and grid reliability risk assessment
+
+### Tools, Frameworks, and Infrastructure
+
+- R packages for risk modeling (e.g., {riskr}, {VaR}, {actuar}, {EnvStats})
+- Integration of R with Python, C++, or cloud systems for risk computation
+- R in production risk workflows (Docker, Plumber APIs, Shiny Server)
+- Automated model validation and testing in R
+- High-performance computing and parallelization for large risk simulations
+- Reproducibility, version control, and data lineage in risk analytics
+
+### Governance, Mitigation, and Decision-Making
+
+- Risk appetite, thresholds, and tolerance modeling
+- Governance frameworks and compliance (Basel III, Solvency II, etc.)
+- Ethical risk modeling and algorithmic transparency
+- Decision science and risk-informed decision-making
+- Mitigation strategies and optimization under uncertainty
+- Human-in-the-loop risk modeling and interpretability
+
+### Emerging Topics and Innovations
+
+- AI and machine learning approaches to risk prediction
+- Causal inference and counterfactual risk analysis
+- Graph and network-based risk models
+- Agent-based modeling and simulation of systemic risk
+- Reinforcement learning and adaptive risk systems
+- Generative models and synthetic data for risk analysis
+
+## Submission Types
+
+We encourage a variety of proposal types to foster an inclusive and diverse program. Possible submission types include:
+
+- **Talks (20–30 minutes)**: Technical presentations, case studies, or research findings
+- **Lightning Talks (5–10 minutes)**: Short, focused ideas or tools
+- **Panels (45–60 minutes)**: Discussions among experts or practitioners
+- **Tutorials/Workshops (60–90 minutes)**: Hands-on sessions demonstrating tools or methodologies
+
+## Submission Guidelines
+
+All proposals should include the following information:
+
+- Title of the presentation
+- Author(s) and affiliation(s)
+- Abstract (250–400 words)
+- Session type (Talk, Lightning Talk, Panel, Tutorial)
+- Brief bio of the presenter(s)
+- Any links to relevant materials (e.g., GitHub, published papers, Shiny apps)
+
+## Review Criteria
+
+- Relevance to risk analysis and the R community
+- Clarity and quality of abstract
+- Practical impact and innovation
+- Reproducibility and transparency of results
+- Diversity of perspectives and applications
+
+## Contact
+
+For questions regarding this Call for Proposals or the Risk! Digital Event, please contact:
+
+The Risk! Conference Team
+
+info@r-consortium.org
+
+Learn more about the R Consortium and its initiatives at [https://r-consortium.org](https://r-consortium.org).
