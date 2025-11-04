@@ -1,6 +1,7 @@
 ---
-title: "R+AI 2025 Workshops"
+title: "R!sk 2026 Workshops"
 ---
+Example Content
 
 <div id="from-prompts-to-agents"></div>
 
