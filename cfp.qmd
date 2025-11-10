@@ -4,6 +4,8 @@ title: "Call for Proposals"
 
 The R Consortium invites submissions for our inaugural online R!sk event, a global gathering for anyone using the R statistical programming language to calculate, measure, report, and mitigate risk. This all digital event brings together practitioners, researchers, and industry experts to share innovative tools, methods, and case studies that advance the science and practice of risk analysis in R.
 
+## [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLScRdrnEGTwI8qX_5pzo9CU79wpd1_L71nWeVly8anBTcBP5mQ/viewform)
+
 ## Important Dates
 
 Call for Proposals Opens: November 7, 2025
@@ -112,3 +114,5 @@ The Risk! Conference Team
 info@r-consortium.org
 
 Learn more about the R Consortium and its initiatives at [https://r-consortium.org](https://r-consortium.org).
+
+## [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLScRdrnEGTwI8qX_5pzo9CU79wpd1_L71nWeVly8anBTcBP5mQ/viewform)
