@@ -21,6 +21,22 @@ Experience inspiring talks and hands-on workshops, all designed to empower R use
 - **Speakers participate in live Q&A**  
 - **Schedule is US Eastern Time Zone**
 
+## Keynote speaker
+
+### **Keynote:** James “JD” Long (CTO at Palomar)
+
+The R Consortium is pleased to announce that James “JD” Long, CTO at Palomar, and co-author of _R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics_, will deliver the keynote address at R!sk 2026.
+
+### About JD Long
+
+![](images/jd-long.jpg){style="border-radius: 50%; width: 200px;"}
+
+JD Long is CTO at Palomar. He says “I’m the guy who can build a Monte Carlo model, help parallelize the model to run on cloud services and then stand in front of a group of business leaders and put the work in context where everyone understands. My super power is thinking probabilistically, understanding risk, and communicating clearly.”
+
+JD is widely known in the R community for his practical focus on building real-world risk and insurance models and for helping large organizations adopt R and modern analytics practices. He is a frequent speaker at R conferences and meetups, and his work has been featured in the R Journal and other publications.
+
+As co-author of _R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics_, JD has helped thousands of R users solve everyday data and modeling problems. Through his talks and writing, he emphasizes probabilistic thinking, clear communication of uncertainty, and building analytics cultures that support experimentation and learning.
+
 ## Registration Pricing
 
 The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars. 
