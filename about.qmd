@@ -1,5 +1,31 @@
 ---
-title: "About R!sk 2026"
+title: "About Risk 2026"
+og-title: "About Risk 2026 - R Consortium Conference"
 ---
 
-The inaugural Risk! 2026 event is a global gathering for anyone using the R statistical programming language to calculate, measure, report, and mitigate risk. This all digital event brings together practitioners, researchers, and industry experts to share innovative tools, methods, and case studies that advance the science and practice of risk analysis in R.
+R!sk 2026 is an R Consortium event focused on risk analytics with R. The program includes a two day schedule including talks and lightning talks.
+
+## Goals
+- Showcase practical risk analytics with R across industries.
+- Share advances in risk modeling, measurement, and reporting.
+- Connect the community through hands-on learning.
+
+## Quick Facts
+**Dates:** February 18–19, 2026  
+**Location:** 100% online  
+**Recordings:** Talks will be recorded  
+**Community:** Speakers participate in live Q&A  
+**Time Zone:** Schedule is US Eastern Time Zone  
+**Pricing:** Industry, Academia, and Student level ticketing are all available
+
+## Registration Pricing
+
+The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.
+
+| Category              | Price |
+|-----------------------|:-------:|
+| Students              |  \$25   |
+| Academic / Non-profit |  \$50   |
+| Industry              |  \$70   |  
+
+## [Register Now!](https://events.zoom.us/ev/Ark6XHcy8vXeymyAysyNzMbKscoWCuNsN17kycIwmV8C2b6JUBgb~AlGYjm23A77JHD1EBrnbamcaB_KvcxrfTuCUZ1VhjjId9CMchP7y_Q9V9Q)
