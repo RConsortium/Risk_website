@@ -3,12 +3,15 @@ project:
   output-dir: _site
 
 website:
-  title: "R!sk 2026"
+  title: "Risk 2026"
+  description: "Risk 2026 - R Consortium conference on risk analytics with R. Join us February 18-19, 2026 for talks, workshops, and networking."
   favicon: images/favicon.ico
   site-url: "https://rconsortium.github.io/risk_website/"
   google-analytics: "G-VJ9272JT9S"
   navbar:
     left:
+      - text: About
+        href: about.qmd
       - text: Call for Proposals
         href: cfp.qmd
       - text: Code of Conduct

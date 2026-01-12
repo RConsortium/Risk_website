@@ -1,5 +1,6 @@
 ---
-title: "R!sk 2026"
+title: "Risk 2026"
+og-title: "Risk 2026 - R Consortium Conference on Risk Analytics"
 page-layout: article
 ---
 
@@ -7,12 +8,30 @@ Join us at R!sk 2026, our conference dedicated to the open-source R community an
 
 ![](images/risk-main-image.png)
 
+## [Register Now!](https://events.zoom.us/ev/Ark6XHcy8vXeymyAysyNzMbKscoWCuNsN17kycIwmV8C2b6JUBgb~AlGYjm23A77JHD1EBrnbamcaB_KvcxrfTuCUZ1VhjjId9CMchP7y_Q9V9Q)
+
 ### **Dates:** February 18–19, 2026
 ### **Location:** 100% online
+
+Whether you're calculating risk in finance, measuring risk in healthcare, reporting risk in insurance, or mitigating risk across any industry—there's something here for you.
+
+Experience inspiring talks and hands-on workshops, all designed to empower R users at every level.
 
 - **Talks will be recorded**  
 - **Speakers participate in live Q&A**  
 - **Schedule is US Eastern Time Zone**
+
+## Registration Pricing
+
+The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars. 
+
+| Category              | Price |
+|-----------------------|:-------:|
+| Students              |  \$25   |
+| Academic / Non-profit |  \$50   |
+| Industry              |  \$70   |
+
+## [Register Now!](https://events.zoom.us/ev/Ark6XHcy8vXeymyAysyNzMbKscoWCuNsN17kycIwmV8C2b6JUBgb~AlGYjm23A77JHD1EBrnbamcaB_KvcxrfTuCUZ1VhjjId9CMchP7y_Q9V9Q)
 
 ## Sponsorships
 
