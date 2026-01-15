@@ -3,7 +3,7 @@ title: "About Risk 2026"
 og-title: "About Risk 2026 - R Consortium Conference"
 ---
 
-R!sk 2026 is an R Consortium event focused on risk analytics with R. The program includes a two day schedule including talks and lightning talks.
+R!sk 2026 is an R Consortium event focused on risk analytics with R. The program includes a two day schedule of talks and lightning talks.
 
 ## Goals
 - Showcase practical risk analytics with R across industries.
