@@ -8,7 +8,7 @@ All times Eastern
 
 | Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
 |------------|----------|----------|---------------|----------------------------------|
-| 8:00 AM | 9:00 AM | 60 mins | [Keynote: TBD](Abstracts.qmd#jd-long) | JD Long, CTO at Palomar, co-author of *R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics* |
+| 8:00 AM | 9:00 AM | 60 mins | [Keynote: When Everyone Can Code, What’s a Quant Still For?](Abstracts.qmd#jd-long) | JD Long, CTO at Palomar, co-author of *R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics* |
 | 9:10 AM | 9:50 AM | 40 mins | [Fully Reproducible Model Validation Reports Using Docker, R, Quarto, {renv} and {targets}](Abstracts.qmd#michael-thomas) | Michael Thomas, Chief Data Scientist, Ketchbrook Analytics |
 | 9:55 AM | 10:35 AM | 40 mins | [The Distributions Tailored to Skewed and Fat Tails in the FatTailsR Package](Abstracts.qmd#patrice-kiener) | Patrice Kiener, Président - CEO, Inmodelia |
 | 10:40 AM | 11:20 AM | 40 mins | [Financial Dependence via ISE100 via vine copulas: R packages for risk modeling](Abstracts.qmd#ozan-evkaya) | Ö. Ozan Evkaya, Lecturer in Statistics, School of Mathematics, University of Edinburgh; part-time remote lecturer, Istinye University |
