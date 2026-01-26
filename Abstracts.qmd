@@ -347,7 +347,7 @@ Alonso is a Hydrologist with over 15 years of experience and enthusiastic about 
 
 **Environmental and behavioral economist, University of Hamburg**
 
-![](images/Björn_Bos.JPG){style="border-radius: 50%; width: 200px;"}
+![](images/Bjorn_Bos.JPG){style="border-radius: 50%; width: 200px;"}
 
 ## From Forecasts to Action: A Data Pipeline for Air Quality Monitoring and Notifications
 
@@ -417,7 +417,7 @@ Natalia Ciria is a veterinarian and PhD candidate in epidemiology at the Departm
 
 **MD/PhD Candidate, Virus Epidemiology, Charité - Universitätsmedizin Berlin**
 
-![](images/anna-frühauf.jpg){style="border-radius: 50%; width: 200px;"}
+![](images/anna-fruhauf.jpg){style="border-radius: 50%; width: 200px;"}
 
 ## Mapping the Unknown During an Active Outbreak: Lessons from Geospatial Risk Modelling of Oropouche Virus
 
