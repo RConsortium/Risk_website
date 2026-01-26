@@ -1,36 +1,36 @@
 ---
-title: "R+AI 2025 Program"
+title: "Risk 2026 Program"
 ---
-Example Content
 
-## Day 1: Wednesday, November 12, 2025
-
-All times Eastern
-
-| Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
-|------------|----------|----------|---------------|----------------------------------|
-| 10:00 AM | 10:40 AM | 40 mins | [Keynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research](Abstracts.qmd#joe-cheng) | Joe Cheng, CTO, Posit |
-| 10:45 AM | 11:20 AM | 35 mins | [Me, Myself, and Claude](Abstracts.qmd#jasmine-daly) | Jasmine Daly, Principal Consultant & Founder, Daly Analytics |
-| 11:20 AM | 11:55 AM | 35 mins | [Reviving Forgotten Code with LLMs](Abstracts.qmd#jonathan-pearce) | Jonathan Pearce, Data Scientist, Lightspeed Commerce |
-| 11:55 AM | 12:30 PM | 35 mins | [Tools for LLMs and Humans who use R](Abstracts.qmd#garrick-aden-buie) | Garrick Aden-Buie, Software Engineer, Posit |
-| 12:30 PM | 1:05 PM | 35 mins | [Building a Better R AI Assistant: A Multi-Agent Approach](Abstracts.qmd#pawel-rucki) | Pawel Rucki, Principal Data Scientist, Roche |
-| 1:05 PM | 1:40 PM | 35 mins | [mini007 - A Lightweight Framework for Multi-Agent Orchestration in R](Abstracts.qmd#mohamed-el-fodil-ihaddaden) | Mohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE |
-| 1:40 PM | 2:15 PM | 35 mins | [Analyzing LLM Evaluations](Abstracts.qmd#max-kuhn) | Max Kuhn, Software Engineer, Posit PBC |
-| 2:15 PM | 2:50 PM | 35 mins | [Biomedical ontology dictionary creation with embeddings and local LLMs](Abstracts.qmd#thomas-charlon) | Thomas Charlon, Research Associate, Harvard Medical School |
-| 2:50 PM | 3:25 PM | 35 mins | [Brand your docs, apps, and ggplots using LLMs](Abstracts.qmd#umair-durani) | Umair Durrani, PhD, Data Scientist, Presage Group Inc. |
-
-## Day 2: Thursday, November 13, 2025
+## Day 1: Wednesday, February 18, 2026
 
 All times Eastern
 
 | Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
 |------------|----------|----------|---------------|----------------------------------|
-| 10:00 AM | 10:35 AM | 35 mins | [Introducing geodl: An R package for geospatial semantic segmentation](Abstracts.qmd#aaron-maxwell) | Aaron Maxwell, Associate Professor, West Virginia University |
-| 10:35 AM | 11:10 AM | 35 mins | [How deep learning helps build results that beat prior records](Abstracts.qmd#russ-conte) | Russ Conte |
-| 11:10 AM | 11:45 AM | 35 mins | [Gradient Boosting Machines (GBMs) in the Age of LLMs and ChatGPT](Abstracts.qmd#szilard-pafka) | Szilard Pafka, PhD |
-| 11:45 AM | 12:20 PM | 35 mins | [Tracking the Evolution of R and Python Tools for GenAI](Abstracts.qmd#xu-fei) | Xu Fei, Senior Solutions Engineer, A2-Ai |
-| 12:20 PM | 12:55 PM | 35 mins | [kuzco \| Computer Vision made easy](Abstracts.qmd#frank-hull) | Frank Hull, Director of Data Science & Analytics |
-| 12:55 PM | 1:30 PM | 35 mins | [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation](Abstracts.qmd#troy-hernandez) | Troy Hernandez, PhD, Founder, cornball.ai |
-| 1:30 PM | 2:05 PM | 35 mins | [CancerClarity app: Enhancing cancer data visualization with AI-generated narratives](Abstracts.qmd#edgar-munoz) | Edgar Muñoz, Statistician, Institute for Health Promotion Research (IHPR) at UT Health San Antonio |
-| 2:05 PM | 2:40 PM | 35 mins | [R+AI: Use RAG from your database to gain insights into the R Consortium](Abstracts.qmd#mark-hornick-sherry-lamonica) | Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning |
-| 3:00 PM | 5:00 PM | 2 hours | [Workshop: From Prompts to Agents: Building & Evaluating R + LLM Workflows](workshops.qmd#from-prompts-to-agents) | Devin Pastoor, Chief Technology and Product Officer, A2-AI; Xu Fei, Senior Solutions Engineer, A2-AI; Aathira Anil Kumar, Software Engineer, A2-AI |
+| 8:00 AM | 9:00 AM | 60 mins | [Keynote: TBD](Abstracts.qmd#jd-long) | JD Long, CTO at Palomar, co-author of *R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics* |
+| 9:10 AM | 9:50 AM | 40 mins | [Fully Reproducible Model Validation Reports Using Docker, R, Quarto, {renv} and {targets}](Abstracts.qmd#michael-thomas) | Michael Thomas, Chief Data Scientist, Ketchbrook Analytics |
+| 9:55 AM | 10:35 AM | 40 mins | [The Distributions Tailored to Skewed and Fat Tails in the FatTailsR Package](Abstracts.qmd#patrice-kiener) | Patrice Kiener, Président - CEO, Inmodelia |
+| 10:40 AM | 11:20 AM | 40 mins | [Financial Dependence via ISE100 via vine copulas: R packages for risk modeling](Abstracts.qmd#ozan-evkaya) | Ö. Ozan Evkaya, Lecturer in Statistics, School of Mathematics, University of Edinburgh; part-time remote lecturer, Istinye University |
+| 11:25 AM | 12:05 PM | 40 mins | Break |  |
+| 12:10 PM | 12:50 PM | 40 mins | [Identifying Critical Participants in the SIC Payment System with R](Abstracts.qmd#julius-mattern-christoph-meyer) | Julius Mattern, Senior data scientist, Swiss National Bank<br>Christoph Meyer, Senior data scientist, Swiss National Bank |
+| 12:55 PM | 1:35 PM | 40 mins | [Agentic R Workflows for High-Stakes Risk Analysis](Abstracts.qmd#greg-michaelson) | Greg Michaelson, Co-founder and Chief Product Officer, Zerve |
+| 1:40 PM | 2:20 PM | 40 mins | [How the R packages NumericEnsembles and LogisticEnsembles can return the best possible results for data sets related to risk](Abstracts.qmd#russ-conte) | Russ Conte, Independent consultant |
+| 2:25 PM | 3:05 PM | 40 mins | [A Bayesian R Framework for Quantifying Cyber Risk Using the FAIR Model and MITRE ATT\&CK](Abstracts.qmd#joshua-connors) | Joshua Connors, Cyber Security Risk Management Engineer, Viasat |
+
+## Day 2: Thursday, February 19, 2026
+
+All times Eastern
+
+| Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
+|------------|----------|----------|---------------|----------------------------------|
+| 8:00 AM | 8:15 AM | 15 mins | [Defining Granular Risk Groups: A Reproducible Workflow for Multi-Threshold Survival Analysis](Abstracts.qmd#payton-yau) | Payton Yau, Lecturer in Computational Biology, Nottingham Trent University (UK) |
+| 8:15 AM | 8:30 AM | 15 mins | [Risky viz](Abstracts.qmd#cara-thompson) | Cara Thompson, Data visualisation consultant |
+| 8:30 AM | 8:45 AM | 15 mins | [Conformal Inference & Calibrating Uncertainty with a Three-Way Split](Abstracts.qmd#frank-hull) | Frank Hull, Director of data science & analytics |
+| 8:45 AM | 9:00 AM | 15 mins | [Lightweight Transfer Learning for Financial Forecasting Using Quasi-Randomized Networks](Abstracts.qmd#thierry-moudiki) | Thierry Moudiki, Founder and lead, Techtonique LLC |
+| 9:00 AM | 9:15 AM | 15 mins | [Shiny Apps for Time Series Analysis and Extremes in Hydrology](Abstracts.qmd#alonso-arriagada) | Alonso Arriagada M., Senior Hydrologist Engineer, AUSENCO |
+| 9:15 AM | 9:30 AM | 15 mins | [From Forecasts to Action: A Data Pipeline for Air Quality Monitoring and Notifications](Abstracts.qmd#bjorn-bos) | Björn Bos, Environmental and behavioral economist, University of Hamburg |
+| 9:30 AM | 10:10 AM | 40 mins | [DWD Temperature Explorer: An Open-Access R Shiny Dashboard for Climate-Informed Risk Governance in Germany](Abstracts.qmd#cesar-ivan-alvarez) | Dr. Cesar Ivan Alvarez, Research Scientist, Chair of Climate Resilience of Cultural Ecosystems, Center for Climate Resilience, University of Augsburg, Germany |
+| 10:15 AM | 10:55 AM | 40 mins | [mcmodule: An R Package for Multi-Pathway Monte Carlo Risk Assessment](Abstracts.qmd#natalia-ciria) | Natalia Ciria, Veterinarian and PhD candidate in Epidemiology, Department of Animal Health and Anatomy, Autonomous University of Barcelona (UAB) |
+| 11:05 AM | 11:45 AM | 40 mins | [Mapping the Unknown During an Active Outbreak: Lessons from Geospatial Risk Modelling of Oropouche Virus](Abstracts.qmd#anna-fruhauf) | Anna Frühauf, MD/PhD Candidate, Virus Epidemiology, Charité - Universitätsmedizin Berlin |
+| 11:55 AM | 12:15 PM | 20 mins | [Final Remarks](Abstracts.qmd#terry-christiani) | Terry Christiani, Executive Director, R Consortium |

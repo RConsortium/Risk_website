@@ -12,6 +12,10 @@ website:
     left:
       - text: About
         href: about.qmd
+      - text: Abstracts
+        href: Abstracts.qmd
+      - text: Program
+        href: program.qmd
       - text: Call for Proposals
         href: cfp.qmd
       - text: Code of Conduct
