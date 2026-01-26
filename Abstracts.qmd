@@ -339,7 +339,7 @@ Development of shiny apps to quickly and easily apply different statistical anal
 
 ### Bio
 
-Alonso is a civil engineer with a major in hydraulics, sanitary-environment from the University of Chile, and a master’s degree in hydrology and water management from University of Alcalá (Spain). With 17 years of professional experience in the engineering consultancy, he has developed essential skills in the use of R and Python applied to hydrology, water resources and climate change.
+Alonso is a Hydrologist with over 15 years of experience and enthusiastic about R applied to water resources. He has created packages and developed shiny apps for different purposes, focusing on statistical analysis of hydrological variables, hydrometeorological extremes, and time series analysis.
 
 ---
 
