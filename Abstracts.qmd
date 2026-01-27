@@ -128,7 +128,7 @@ Outside of university teaching, I was a co-organiser of Technology Enhanced Math
 
 ## Identifying Critical Participants in the SIC Payment System with R
 
-**Date & Time:** February 18 at 12:10pm, Eastern
+**Date & Time:** February 18 at 11:25pm, Eastern
 
 ### Abstract
 
@@ -152,7 +152,7 @@ Christoph Meyer is a senior data scientist at the Swiss National Bank with a PhD
 
 ## Agentic R Workflows for High-Stakes Risk Analysis
 
-**Date & Time:** February 18 at 12:55pm, Eastern
+**Date & Time:** February 18 at 12:10pm, Eastern
 
 ### Abstract
 
@@ -172,7 +172,7 @@ Greg Michaelson is a product leader, entrepreneur, and data scientist focused on
 
 ## How the R packages NumericEnsembles and LogisticEnsembles can return the best possible results for data sets related to risk
 
-**Date & Time:** February 18 at 1:40pm, Eastern
+**Date & Time:** February 18 at 12:55pm, Eastern
 
 ### Abstract
 
@@ -192,7 +192,7 @@ Russ Conte has done a wide range of things in life. A few (of many) include earn
 
 ## A Bayesian R Framework for Quantifying Cyber Risk Using the FAIR Model and MITRE ATT\&CK
 
-**Date & Time:** February 18 at 2:25pm, Eastern
+**Date & Time:** February 18 at 1:40pm, Eastern
 
 ### Abstract
 

@@ -12,11 +12,10 @@ All times Eastern
 | 9:10 AM | 9:50 AM | 40 mins | [Fully Reproducible Model Validation Reports Using Docker, R, Quarto, {renv} and {targets}](Abstracts.qmd#michael-thomas) | Michael Thomas, Chief Data Scientist, Ketchbrook Analytics |
 | 9:55 AM | 10:35 AM | 40 mins | [The Distributions Tailored to Skewed and Fat Tails in the FatTailsR Package](Abstracts.qmd#patrice-kiener) | Patrice Kiener, Président - CEO, Inmodelia |
 | 10:40 AM | 11:20 AM | 40 mins | [Financial Dependence via ISE100 via vine copulas: R packages for risk modeling](Abstracts.qmd#ozan-evkaya) | Ö. Ozan Evkaya, Lecturer in Statistics, School of Mathematics, University of Edinburgh; part-time remote lecturer, Istinye University |
-| 11:25 AM | 12:05 PM | 40 mins | Break |  |
-| 12:10 PM | 12:50 PM | 40 mins | [Identifying Critical Participants in the SIC Payment System with R](Abstracts.qmd#julius-mattern-christoph-meyer) | Julius Mattern, Senior data scientist, Swiss National Bank<br>Christoph Meyer, Senior data scientist, Swiss National Bank |
-| 12:55 PM | 1:35 PM | 40 mins | [Agentic R Workflows for High-Stakes Risk Analysis](Abstracts.qmd#greg-michaelson) | Greg Michaelson, Co-founder and Chief Product Officer, Zerve |
-| 1:40 PM | 2:20 PM | 40 mins | [How the R packages NumericEnsembles and LogisticEnsembles can return the best possible results for data sets related to risk](Abstracts.qmd#russ-conte) | Russ Conte, Independent consultant |
-| 2:25 PM | 3:05 PM | 40 mins | [A Bayesian R Framework for Quantifying Cyber Risk Using the FAIR Model and MITRE ATT\&CK](Abstracts.qmd#joshua-connors) | Joshua Connors, Cyber Security Risk Management Engineer, Viasat |
+| 11:25 AM | 12:05 PM | 40 mins | [Identifying Critical Participants in the SIC Payment System with R](Abstracts.qmd#julius-mattern-christoph-meyer) | Julius Mattern, Senior data scientist, Swiss National Bank<br>Christoph Meyer, Senior data scientist, Swiss National Bank |
+| 12:10 PM | 12:50 PM | 40 mins | [Agentic R Workflows for High-Stakes Risk Analysis](Abstracts.qmd#greg-michaelson) | Greg Michaelson, Co-founder and Chief Product Officer, Zerve |
+| 12:55 PM | 1:35 PM | 40 mins | [How the R packages NumericEnsembles and LogisticEnsembles can return the best possible results for data sets related to risk](Abstracts.qmd#russ-conte) | Russ Conte, Independent consultant |
+| 1:40 PM | 2:20 PM | 40 mins | [A Bayesian R Framework for Quantifying Cyber Risk Using the FAIR Model and MITRE ATT\&CK](Abstracts.qmd#joshua-connors) | Joshua Connors, Cyber Security Risk Management Engineer, Viasat |
 
 ## Day 2: Thursday, February 19, 2026
 
