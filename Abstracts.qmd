@@ -329,6 +329,9 @@ Senior Data Scientist, Actuary, and Researcher specializing in machine learning,
 
 **Senior Hydrologist Engineer, AUSENCO**
 
+![](images/alonso-arriagada.jpg){style="border-radius: 50%; width: 200px;"}
+
+
 ## Shiny Apps for Time Series Analysis and Extremes in Hydrology
 
 **Date & Time:** February 19 at 9:00am, Eastern
