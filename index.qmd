@@ -15,17 +15,25 @@ Join us at R!sk 2026, our conference dedicated to the open-source R community an
 
 Whether you're calculating risk in finance, measuring risk in healthcare, reporting risk in insurance, or mitigating risk across any industry—there's something here for you.
 
-Experience inspiring talks and hands-on workshops, all designed to empower R users at every level.
+Experience deep content and live Q&A sessions where you can easily engage with the speakers, all designed to empower R users at every level.
 
 - **Talks will be recorded**  
 - **Speakers participate in live Q&A**  
 - **Schedule is US Eastern Time Zone**
 
-## Keynote speaker
-
-### **Keynote:** James “JD” Long (CTO at Palomar)
+## Keynote speaker: James “JD” Long
 
 The R Consortium is pleased to announce that James “JD” Long, CTO at Palomar, and co-author of _R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics_, will deliver the keynote address at R!sk 2026.
+
+### Keynote: When Everyone Can Code, What’s a Quant Still For?
+
+Quant risk is in a weird new place: code is no longer the bottleneck. When LLMs make it easy for basically anyone to produce working R or Python code, the question stops being “can we build it?” and becomes “can we trust it, explain it, and reproduce it?”
+
+In this keynote I’ll argue that what matters most now is system architecture, validation, and ownership, and all three get harder (and more important) when building gets cheap. Architecture isn’t just “tech design,” it’s policy: it nudges humans and LLMs to write code that’s modular, reviewable, and easy for someone else to verify. Validation has to level up too. LLM-assisted workflows are great at producing something that looks right very quickly.  However, testing can’t be the cleanup step at the end. We need strong automated tests, input/data checks, and backtesting that’s built into the way work ships.
+
+But it’s not only about tests. It’s also about reproducibility: pinned environments, versioned data, and the ability to rerun a result and get the same answer—because if you can’t reproduce it, you can’t audit it, and you can’t own it. And as more people can push code, governance has to scale: clear code ownership, review gates, protected pipelines, and sensible guardrails that keep velocity high without turning production into a free-for-all. This is where the research/production line matters: experiments should be easy and encouraged; production should be boring, controlled, and observable.
+
+Finally, we need a culture shift. The computer isn’t responsible for your results. The IDE didn’t do it. The model didn’t do it. We did. In an “everyone can code” world, excellence looks less like personal wizardry and more like systems thinking: designing workflows where the right thing is the easy thing, and where accountability is clear when things go wrong. The goal isn’t to slow down. The goal is to make speed safe.
 
 ### About JD Long
 
